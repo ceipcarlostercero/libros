@@ -29,7 +29,7 @@
   <div><h1>Biblioteca</h1><p>C.E.I.P. Carlos III</p></div>
 </header>
 <main id="lista"></main>
-<script src="libros.js"></script>
+<script>document.write('<script src="libros.js?v=' + Date.now() + '"><\/script>');</script>
 <script>
   var lista = document.getElementById('lista');
   LIBROS.forEach(function (b) {
