@@ -1,6 +1,6 @@
 # Biblioteca · C.E.I.P. Carlos III
 
-Lector de libros en https://ceip-carlos-iii.github.io/libros/
+Lector de libros en https://ceipcarlostercero.github.io/libros/
 
 ## Añadir un libro
 
