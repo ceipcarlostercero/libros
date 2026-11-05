@@ -11,10 +11,10 @@ var LIBROS = [
   },
   {
     "id": "coches-magicos",
-    "titulo": "Los coches mágicos y el árbol Luminario",
+    "titulo": "Los coches mágicos y el árbol Luminaris",
     "paginas": 45,
     "ancho": 1662,
     "alto": 1800,
-    "autor": "Gemma Brie · Robert García"
+    "autor": "Gemma Brie y Robert García"
   }
 ];
